@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "privatetools",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "53c3ea08-bb45-4828-aba4-6c3a72d18ce4",
+			"database_name": "privatetools"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
